@@ -1,0 +1,42 @@
+_repo: Twenty-Years-of-My-Life_65376
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Makino, Yoshio
+    aliases:
+    - Markino, Heiji
+    - Markino, Yoshio
+    - 牧野義雄
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '43293'
+    url: http://www.gutenberg.org/2009/agents/43293
+    wikipedia: https://en.wikipedia.org/wiki/Yoshio_Markino
+creator:
+  author:
+    agent_name: Sladen, Douglas Brooke Wheelton
+    aliases:
+    - Sladen, Douglas B. W. (Douglas Brooke Wheelton)
+    - Sladen, Douglas
+    birthdate: 1856
+    deathdate: 1947
+    gutenberg_agent_id: '44539'
+    url: http://www.gutenberg.org/2009/agents/44539
+    wikipedia: https://en.wikipedia.org/wiki/Douglas_Sladen
+description: ''
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65376'
+  lccn: '15017976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sladen, Douglas Brooke Wheelton, 1856-1947'
+- !lcsh 'Authors -- Biography'
+- GITenberg
+title: Twenty Years of My Life
+url: http://www.gutenberg.org/ebooks/65376
